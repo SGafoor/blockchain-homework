@@ -4,3 +4,5 @@ I have landed a new job at ZBank, a small, innovative bank that is interested in
 1.	There is no real money involved, which will give your team of developers the freedom to experiment.
 2.	Test nets allows for offline development.
 Tokens inherently have no value here, so we will provide pre-configured accounts and nodes for easy setup.
+
+![MyCrypto](https://user-images.githubusercontent.com/83382006/134716219-a543c1ed-060b-470b-87a6-905891c67534.png)
