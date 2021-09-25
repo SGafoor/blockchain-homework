@@ -27,6 +27,18 @@ a.	You need to know if you’re running a 32 bit operating system or a 64 bit. T
 
 *Great now that everything is installed and running, let’s begin shall we?*
 Open up your MyCrypto application and begin the login portion. 
+![image](https://user-images.githubusercontent.com/83382006/134774553-ef595b18-3aa2-4cc5-b441-a5cfcd929668.png)
+
+in the bottom left had portion you'll see mnemonic phrase. click on that and save the text in a text document, it will ask you to choose those words in order to unlock the wallet. 
+
+Once that's completed, choose an address for your wallet and save the address in the same note pad file. 
+
+
+![image](https://user-images.githubusercontent.com/83382006/134775225-081cd49a-fa62-4489-9268-c23e8ab4e6b0.png)
+
+
+![image](https://user-images.githubusercontent.com/83382006/134775250-9954a707-0292-483f-ab65-5b318bd949f7.png)
+
 
   
   [ameera](https://www.google.com)
