@@ -39,6 +39,51 @@ Once that's completed, choose an address for your wallet and save the address in
 
 ![image](https://user-images.githubusercontent.com/83382006/134775250-9954a707-0292-483f-ab65-5b318bd949f7.png)
 
+it should look like this once you're in.
 
+![image](https://user-images.githubusercontent.com/83382006/134777099-807c5b09-bce1-47a6-8604-5bb8f33d8816.png)
+
+
+Opening up your gitbash go into your blockchain folder that you created and type in ./geth --datadir node1 account new
+it will give you a new address and secret keystore path. These also need to be saved in the note pad..
+
+![image](https://user-images.githubusercontent.com/83382006/134777624-c1dcd217-4925-48eb-a4ef-b33cc45291e5.png)
+
+Now we'll make the Genesis from scratch. This will create a network in your MyCrypto for you to connect to and it will link the two nodes that we just created. 
+We do thiis so you can send test money between the two nodes. 
+
+**How to set up a genesis block:**
+1.	Download my crypto
+2.	Download geth
+3.	Using gitbash go Into blockchain directory
+4.	Open MyCrypto and make sure the Ropsten network is available. 
+5.	Open my Crypto, choose wallet info
+6.	Input mnemonic phrase and choose address
+7.	Once you’ve signed in, using the drop down menu choose wallet information.
+8.	You have a private key available to you. The same notepad that you saved your mnemonic phrase and address in, save your private key. 
+9.	Going back to gitbash and in your block chain folder type in command ./puppet
+10.	Name this network, something you’ll remember, then choose option 2 (configure a new genesis)
+
+  a.	Then create genesis from scratch (option 1)
+  
+  b.	Consensus engine is proof of work (option 1)
+  
+  c.	Then put in your wallet address without adding in the 0x
+  
+  d.	You’ll see an option to add another address, hit enter to ignore
+  
+  e.	Now you’ll see a question come up saying should the address be funded with wei, hit enter to ignore. 
+  
+  f.	Make network id 333
+  
+  g. Now we manage (2) and export the genesis (2).
+  (don't worry if you're a little lost all the steps are shown in the picture in the bottom)
+
+![image](https://user-images.githubusercontent.com/83382006/134777739-9c50f7b8-f2f9-4d18-86a4-79c6667d9b3f.png)
+
+![image](https://user-images.githubusercontent.com/83382006/134777810-a9cbdfa5-7c0f-4fcb-abcc-aa41a27e6a4a.png)
+![image](https://user-images.githubusercontent.com/83382006/134777838-b778603c-448f-4621-b96b-666eb3c5fa2f.png)
+
+going back to your MyCrypto wallet
   
   [ameera](https://www.google.com)
