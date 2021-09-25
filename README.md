@@ -188,24 +188,31 @@ Select the View & Send option from the left menu pane, then click Keystore file.
 
 On the next screen, click Select Wallet File, then navigate to the keystore directory inside your Node1 directory, select the file located there, provide your password when prompted and then click Unlock.
 
-
-This will open your account wallet inside MyCrypto.
-
-
-Looks like we're filthy rich! This is the balance that was pre-funded for this account in the genesis configuration; however, these millions of ETH tokens are just for testing purposes.
-
 In the To Address box, type the account address from Node2, then fill in an arbitrary amount of ETH.
+
+![image](https://user-images.githubusercontent.com/83382006/134782315-43eaacb9-5d54-4e5b-9fe9-e0c7b2b7ad61.png)
+
+
 
 Confirm the transaction by clicking "Send Transaction", and the "Send" button in the pop-up window.
 
+![image](https://user-images.githubusercontent.com/83382006/134782365-d4e7043d-5cbe-484e-9440-c4d764602372.png)
+
+![image](https://user-images.githubusercontent.com/83382006/134782376-83747869-71cf-4d40-9f52-c84103f2581e.png)
+
 Click the Check TX Status when the green message pops up, confirm the logout:
+
+![image](https://user-images.githubusercontent.com/83382006/134782389-72a280bc-b7c2-4396-8438-7a6914e0528b.png)
 
 You should see the transaction go from Pending to Successful in around the same blocktime you set in the genesis.
 
+![image](https://user-images.githubusercontent.com/83382006/134782424-752cc8fc-e501-4121-8ccb-fee8fac42268.png)
 
 You can click the Check TX Status button to update the status.
 
 AND if all of these steps worked then you've now been successful!!
 
   
-  [ameera](https://www.google.com)
+  [Investopia](https://www.investopedia.com/tech/how-does-bitcoin-mining-work/)
+  
+  [Laws](https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/canada)
